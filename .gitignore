@@ -1,0 +1,6 @@
+node_models/
+dist/
+release/
+.env
+**/.env
+*.iog

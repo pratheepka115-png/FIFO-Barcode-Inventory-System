@@ -1,0 +1,6 @@
+{
+  "name": "FIFO Barcode Inventory System",
+  "description": "Comprehensive FIFO warehouse inventory management system with live barcode generation, shelf-life monitoring zones, picking enforcement, and audit logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
